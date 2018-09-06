@@ -1,0 +1,10 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "vivalldi",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2"
+  }
+}
